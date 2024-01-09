@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/adminsmartname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartdateofbirth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView"/>
+
+    <TextView
+        android:id="@+id/adminsmartaadhar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartaddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartmobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartcardno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartorderid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartapplistatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartpaymentstatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textColor="#000000"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/adminsmartpostalstatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:layout_marginHorizontal="5dp"
+        android:text="TextView" />
+</LinearLayout>
